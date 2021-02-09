@@ -1,4 +1,4 @@
-name: Docker CDDD
+name: Docker CD
 
 on: [push]
 
